@@ -25,7 +25,7 @@ page. Place the blocks so that they are horizontally centered on the page.
 
 [Guideline](https://mate-academy.github.io/layout_task-guideline/)
 
-**Result**
+**Result last**
 
 - [DEMO LINK](https://nastyakpi1995.github.io/layout_style-it-up/)
 - [TEST REPORT LINK](https://nastyakpi1995.github.io/layout_style-it-up/report/html_report/)
